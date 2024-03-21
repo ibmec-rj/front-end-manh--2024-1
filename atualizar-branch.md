@@ -12,6 +12,8 @@
 
 `git checkout sua-branch`
 
+`git pull`
+
 `git merge main`
 
 ## enviar suas modificações para o github
